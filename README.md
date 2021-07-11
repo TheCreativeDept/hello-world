@@ -1,3 +1,5 @@
 # hello-world
-first basic programming project
-Project manager looking to pick up some very basic programming skills
+
+This is my first basic programming project
+
+Just a project manager looking to pick up some very basic programming skills
